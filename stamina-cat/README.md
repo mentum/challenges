@@ -2,7 +2,7 @@
 
 ### Definition :
  
-Your mouse is moving on the screen and is dripping piss. There is a blind cat tracking your mouse by folloying the piss trail. The cat has a limited amount of energy ``` stamina ```. Every drop of piss gives back some stamina that keeps himrunning.
+Your mouse is moving on the screen and is dripping piss. There is a blind cat tracking your mouse by folloying the piss trail. The cat has a limited amount of energy ``` stamina ```. Every drop of piss gives back some stamina that keeps the cat running.
 
 * your mouse is dripping piss once every second
 * stamina cat has a fixed velocity of your choice
@@ -13,5 +13,5 @@ Your mouse is moving on the screen and is dripping piss. There is a blind cat tr
 ### The challenge:
 implement the solution in simple, clear and readable code. You can write it in the language of your choice and use the technologies you want.
 
-Happy challenge
+Happy coding !
 
