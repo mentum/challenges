@@ -1,0 +1,28 @@
+#content {
+	width: 900px;
+	height: 700px;
+	border: 1px black solid;
+}
+
+#cat {
+	width: 60px;
+	height: 40px;
+	background: url("cat.png") no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+}
+
+#mouse {
+	width: 35px;
+	height: 25px;
+	background: url("mouse.png") no-repeat;
+	background-size: 100% 100%;
+}
+
+.piss {
+	width: 10px;
+	height: 10px;
+	background-color: yellow;
+	border-radius: 5px;
+	position: absolute;
+}
