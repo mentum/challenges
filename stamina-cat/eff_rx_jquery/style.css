@@ -1,0 +1,31 @@
+body{
+	background-color: whitesmoke;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#canvas {
+	position: relative;
+	background-color: white;
+	/*margin: auto;*/
+	height: 90%;
+	width: 90%
+}
+
+.cat {
+	height: 30px;
+	width :30px;
+	position: absolute;
+	top : 15px;
+	left: 100px;
+	background-color: red;
+}
+
+.drop {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	background-color: yellow;
+	border-radius: 5px;
+}
