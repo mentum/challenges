@@ -17,4 +17,4 @@ Write the solution in a clear and readable code. If you have an optimal solution
 Open a pull request to this repository with your solution in a folder named this way : 
 <username>_language_whatever_funky_stuff
 
-Happy friday challenge !
+Happy friday coding challenge !
