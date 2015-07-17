@@ -6,7 +6,7 @@ Ivan wants to know how many "FatFlats" are on the sidewalks of Madrid but he can
 
 ##### constraints
 * N is the total number of words in FF
-* K is the number of couples (i, j) where ```FF[i] == "Fat"``` and ```FF[j] == "Flat"```
+* K is the number of couples ( i, j ) where ```FF[i] == "Fat"``` and ```FF[j] == "Flat"```
 * ```0 < i < j <= N```
 
 ### The challenge:
