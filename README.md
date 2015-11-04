@@ -11,4 +11,6 @@ Some of the problems defined here are directly taken from [topcoder](https://www
 
 #### Submissions:
 Open a pull request to this repository with your solution in a folder named this way under the right problem's folder:
-```<username>_language_whatever_funky_stuff```
+```
+<username>_language_whatever_funky_stuff
+```
