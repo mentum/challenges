@@ -33,8 +33,4 @@ Returns: int
 ### The challenge:
 Implement your solution in the language of your choice. Write the solution in a clear and readable code. If you have an optimal solution, way to go! If not, no worries! You get some extra points if you add some fantasy!
 
-### Submissions:
-Open a pull request to this repository with your solution in a folder named this way : 
-<username>_language_whatever_funky_stuff
-
-Happy friday coding challenge !
+Happy coding !

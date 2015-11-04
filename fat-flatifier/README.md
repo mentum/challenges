@@ -13,8 +13,4 @@ Ivan wants to know how many "FatFlats" are on the sidewalks of Madrid but he can
 Implement the FatFlatifier in the language of your choice. You can either create a class FlatFlatifier that contains the fatflatify and a verify function or a simple FatFlatifier as a helper function for Ivan.
 Write the solution in a clear and readable code. If you have an optimal solution, way to go! If not, no worries! You get some extra points if you add some fantasy!
 
-### Submissions:
-Open a pull request to this repository with your solution in a folder named this way : 
-<username>_language_whatever_funky_stuff
-
 Happy friday coding challenge !

@@ -11,7 +11,7 @@ Your mouse is moving on the screen and is dripping piss. There is a blind cat tr
 * each drop of piss gives Stamina Cat 2 seconds of stamina
 
 ### The challenge:
-implement the solution in simple, clear and readable code. You can write it in the language of your choice and use the technologies you want.
+Implement the solution in simple, clear and readable code. You can write it in the language of your choice and use the technologies you want.
 
 Happy coding !
 

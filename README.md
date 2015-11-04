@@ -8,3 +8,7 @@ This repository if filled by various in-house challenges, feel free to make a PR
 
 #### Side note
 Some of the problems defined here are directly taken from [topcoder](https://www.topcoder.com). As we wanted to compare our solutions as a team and be able to discuss them after having solved them, we weren't able to use the topcoder platform.
+
+#### Submissions:
+Open a pull request to this repository with your solution in a folder named this way under the right problem's folder:
+```<username>_language_whatever_funky_stuff```
