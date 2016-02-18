@@ -2,7 +2,7 @@
 
 ### Definition :
  
-Mark is a *[speed of light](https://youtu.be/XsU5AMxvlKg?t=14s)* fast googler and he is given the task to find the shortest path between 2 web pages. Mark is a smart guy and he want's to do his job as best as he can. He heard about something trendy and very efficient called programing. He believes this discipline can help him to accomplish his mission but he doesn't know where to start. Help him by giving him the best of your example.
+Mark is a *[speed of light](https://www.youtube.com/v/XsU5AMxvlKg?start=80&end=89&autoplay=1)* fast googler and he is given the task to find the shortest path between 2 web pages. Mark is a smart guy and he wants to do his job as best as he can. He heard about something trendy and very efficient called programing. He believes this discipline can help him to accomplish his mission but he doesn't know where to start. Help him by giving him the best of your example.
 
 * you're given 2 urls
 * path is given by an ordered chain of urls that links 2 websites
