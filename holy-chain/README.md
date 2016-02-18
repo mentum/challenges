@@ -8,12 +8,15 @@ Mark is a *[speed of light](https://youtu.be/XsU5AMxvlKg?t=14s)* fast googler an
 * path is given by an ordered chain of urls that links 2 websites
 * your path has to be reproductible by human clicks
 
-Example:
+### Example:
+
 Given:
-**https://trello.com** & **http://techcrunch.com**
+
+https://trello.com & http://techcrunch.com
 
 Your program should output:
-**https://trello.com https://trello.com/about http://techcrunch.com/2014/07/24/trello-series-a/ http://techcrunch.com**
+
+https://trello.com - https://trello.com/about - http://techcrunch.com/2014/07/24/trello-series-a/ - http://techcrunch.com
 
 ### The challenge:
 Implement the solution in any language and use any libraries you want. Your solution should run as fast as possible.
